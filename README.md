@@ -17,29 +17,21 @@ The dataset contains user transactions from **Instacart**, an online grocery sho
 - **Products:** Product details  <br>
 - **Aisles & Departments:** Categorization of products  <br>
 
-## 📦 Installation  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/your-username/product-recommender.git
-cd product-recommender
-pip install -r requirements.txt
 🚀 How to Run
-Open Jupyter Notebook
-bash
-Copy
-Edit
-jupyter notebook
-Run recommender.ipynb <br>
-Select a product from the dropdown & get recommendations <br>
+**Open Jupyter Notebook Run recommender.ipynb** <br>
+
 🧠 AI Models Used
 XGBoost – Gradient boosting-based decision trees for high accuracy <br>
 Random Forest – Ensemble method for comparison <br>
+
 📊 Performance Evaluation
 Model	Accuracy	MSE	R² Score
 XGBoost	85%	0.15	0.78
 RandomForest	80%	0.20	0.72
-🖥️ UI Demo
-<div align="center"> <img src="https://via.placeholder.com/600x300?text=UI+Demo" alt="Demo" width="600"/> </div>
+<br>
+<br>
+
+Select a product from the dropdown & get recommendations <br>
 📌 Future Enhancements
 🔹 Improve recommendation accuracy with Deep Learning <br> 🔹 Enhance UI with Streamlit / Flask Web App <br> 🔹 Optimize performance using Feature Engineering <br>
 
