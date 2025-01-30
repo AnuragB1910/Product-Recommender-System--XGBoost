@@ -1,10 +1,4 @@
 # Product-Recommender-System--XGBoost
-**📜 Course:** Design of AI Products  <br>
-**📂 Dataset:** [InstaCart Online Grocery Basket Analysis](https://www.instacart.com/datasets/grocery-shopping-2017)  
-
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Instacart_logo.png" alt="InstaCart" width="200"/>
-</div>  
 
 ## 📖 About the Project  
 This project builds a **Product Recommender System** using **Machine Learning algorithms** to suggest products based on user purchase history. <br>
