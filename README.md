@@ -11,7 +11,8 @@ The system employs advanced models like **XGBoost** and **Random Forest**, compa
 ✅ **Interactive UI** in Jupyter Notebook  <br>
 ✅ **Efficient Data Preprocessing & Feature Engineering**  
 
-## 📊 Dataset Information  
+## 📊 Dataset Information<br>  
+https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset<br>
 The dataset contains user transactions from **Instacart**, an online grocery shopping platform.  <br>
 - **Orders:** User purchase history  <br>
 - **Products:** Product details  <br>
