@@ -32,7 +32,7 @@ RandomForest	80%	0.20	0.72
 <br>
 
 Select a product from the dropdown & get recommendations <br>
-📌 Future Enhancements
+📌 Future Enhancements<br>
 🔹 Improve recommendation accuracy with Deep Learning <br> 🔹 Enhance UI with Streamlit / Flask Web App <br> 🔹 Optimize performance using Feature Engineering <br>
 
 📜 License
