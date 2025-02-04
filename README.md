@@ -22,7 +22,7 @@ The dataset contains user transactions from **Instacart**, an online grocery sho
 **Open Jupyter Notebook Run recommender.ipynb** <br>
 
 🧠 AI Models Used
-XGBoost – Gradient boosting-based decision trees for high accuracy <br>
+XGBoost – Gradient boosting-based decision graphs for high accuracy <br>
 Random Forest – Ensemble method for comparison <br>
 
 📊 Performance Evaluation
