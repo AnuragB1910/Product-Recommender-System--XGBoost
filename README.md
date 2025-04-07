@@ -27,8 +27,8 @@ Random Forest – Ensemble method for comparison <br>
 
 📊 Performance Evaluation
 Model	Accuracy	MSE	R² Score
-XGBoost	85%	0.15	0.78
-RandomForest	80%	0.20	0.72
+XGBoost	72.5%	0.15	0.78
+RandomForest	65%	0.20	0.72
 <br>
 <br>
 
