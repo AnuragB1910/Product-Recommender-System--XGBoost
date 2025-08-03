@@ -2,7 +2,7 @@
 
 ## 📖 About the Project  
 This project builds a **Product Recommender System** using **Machine Learning algorithms** to suggest products based on user purchase history. <br>
-The system employs advanced models like **XGBoost** and **Random Forest**, comparing their performance with various accuracy metric.  
+The system employs advanced models like **XGBoost** and **Random Forest**, comparing their performance with various accuracy metrics.  
 
 ## 📌 Features  
 ✅ **Product Recommendations** based on purchase history  <br>
